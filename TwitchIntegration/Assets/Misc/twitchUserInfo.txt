@@ -1,0 +1,9 @@
+username:
+	AVCchat
+
+channelname:
+	AVCchat
+
+Twitch Chat OAuth Password Generator (password variable in unity):
+	oauth:ob8lihdnpqrxe4j76uqr7ek182dwju
+
